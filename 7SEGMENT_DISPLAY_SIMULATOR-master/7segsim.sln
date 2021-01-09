@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7segsim", "7segsim\7segsim.csproj", "{FE8B6245-8B4F-4D4B-A09B-806B8152B672}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "7SEGSIMULATOR", "7SEGSIMULATOR\7SEGSIMULATOR.vdproj", "{FD743EBE-23B4-4D27-B82D-594AB5CF11F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE8B6245-8B4F-4D4B-A09B-806B8152B672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8B6245-8B4F-4D4B-A09B-806B8152B672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8B6245-8B4F-4D4B-A09B-806B8152B672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8B6245-8B4F-4D4B-A09B-806B8152B672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD743EBE-23B4-4D27-B82D-594AB5CF11F4}.Debug|Any CPU.ActiveCfg = Debug
+		{FD743EBE-23B4-4D27-B82D-594AB5CF11F4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E38203B-0597-45CA-9EA4-BCC8BD9DB197}
+	EndGlobalSection
+EndGlobal

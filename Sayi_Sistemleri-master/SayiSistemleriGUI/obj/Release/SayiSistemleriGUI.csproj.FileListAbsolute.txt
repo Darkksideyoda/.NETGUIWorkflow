@@ -1,0 +1,14 @@
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\bin\Release\SayiSistemleriGUI.exe.config
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\bin\Release\SayiSistemleriGUI.exe
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\bin\Release\SayiSistemleriGUI.pdb
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\bin\Release\MetroFramework.dll
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.AnaSayfa.resources
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.Form1.resources
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.Form2.resources
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.Properties.Resources.resources
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.csproj.GenerateResource.cache
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.csproj.CoreCompileInputs.cache
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.csproj.CopyComplete
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.exe
+C:\Users\Bahtiyar\Desktop\SayiSistemleri\gui\SayiSistemleriGUI\SayiSistemleriGUI\obj\Release\SayiSistemleriGUI.pdb

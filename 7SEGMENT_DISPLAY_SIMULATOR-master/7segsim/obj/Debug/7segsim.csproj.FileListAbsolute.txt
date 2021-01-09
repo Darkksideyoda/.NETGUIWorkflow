@@ -1,0 +1,14 @@
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\bin\Debug\7segsim.exe.config
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\bin\Debug\7segsim.exe
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\bin\Debug\7segsim.pdb
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\bin\Debug\MetroFramework.Design.dll
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\bin\Debug\MetroFramework.dll
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\7segsim.csprojAssemblyReference.cache
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\_7segsim.Form1.resources
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\_7segsim.Properties.Resources.resources
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\7segsim.csproj.GenerateResource.cache
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\7segsim.csproj.CoreCompileInputs.cache
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\7segsim.csproj.CopyComplete
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\7segsim.exe
+C:\Users\Bahtiyar\Desktop\mantık7seg\simulator7seg\7segsim\7segsim\obj\Debug\7segsim.pdb
